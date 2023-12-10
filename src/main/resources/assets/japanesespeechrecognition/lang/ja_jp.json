@@ -1,0 +1,6 @@
+{
+  "key.japanesespeechrecognition.setting":"日本語音声認識MOD 設定",
+  "key.category.japanesespeechrecognition": "ON/OFF切り替えボタン",
+  "text.JapaneseSpeechRecognition.status": "[JSR]現在の状態",
+  "text.JapaneseSpeechRecognition.error": "[JSR]モデルを読み込めませんでした"
+}

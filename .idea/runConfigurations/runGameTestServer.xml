@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component>
+  <configuration default="false" factoryName="Application" name="runGameTestServer" singleton="false" type="Application">
+    <option name="MAIN_CLASS_NAME" value=""/>
+    <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES -Dforge.enabledGameTestNamespaces=japanesespeechrecognition"/>
+    <option name="PROGRAM_PARAMETERS" value=""/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\run"/>
+    <module name="JapaneseSpeechRecognition.main"/>
+    <envs>
+      <env name="MOD_CLASSES" value="japanesespeechrecognition%%$PROJECT_DIR$\build\resources\main;japanesespeechrecognition%%$PROJECT_DIR$\build\classes\java\main"/>
+    </envs>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+      <option enabled="true" externalProjectPath="$PROJECT_DIR$" name="Gradle.BeforeRunTask" tasks=":prepareRunGameTestServerCompile"/>
+    </method>
+  </configuration>
+</component>

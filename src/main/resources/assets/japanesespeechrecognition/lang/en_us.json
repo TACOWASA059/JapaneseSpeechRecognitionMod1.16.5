@@ -1,0 +1,6 @@
+{
+  "key.japanesespeechrecognition.setting":"Japanese Speech Recognition Mod Setting",
+  "key.category.japanesespeechrecognition": "ON/OFF Switch",
+  "text.JapaneseSpeechRecognition.status": "[JSR]Current State",
+  "text.JapaneseSpeechRecognition.error": "[JSR]model was not loaded"
+}
