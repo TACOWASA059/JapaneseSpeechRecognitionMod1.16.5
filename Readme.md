@@ -7,4 +7,4 @@ JapaneseModel/
 ```
 
 
-JapaneseModel/は[リンク](https://alphacephei.com/vosk/models)からJapaneseのモデルをダウンロードしてフォルダ名を変更して配置する。
+JapaneseModel/は[リンク](https://alphacephei.com/vosk/models/vosk-model-small-ja-0.22.zip)からJapaneseのモデルをダウンロードしてフォルダ名を変更して配置する。
